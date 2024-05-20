@@ -57,6 +57,7 @@ Raspberry Pi 3
 Quelle: Smarpt.de
 
 ![](./Bilder/lpc24_1_smarpt/smarpt3-innen-740x420.jpg)
+
 Links: Raspberry Pi, keyboard-Dongle, Pi-cam 
 Rechts: Akkupack in der Schublade
 *****
